@@ -1,0 +1,8 @@
+{
+  "name": "node-upload-implementation",
+  "version": "1.0.0",
+  "author": "Rodrigo silva <rodsilvasoul@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "description": "An upload implementation on node"
+}
